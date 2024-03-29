@@ -1,6 +1,6 @@
 # Taiwanese-Local Food-classification-APP
 
-Using deep learning technique to build a model and the product of ANVIL to build the interactive user interface.
+Using deep learning technique to build a model and the product of ANVIL to build the interactive user interface. (https://food-classification.anvil.app/)
 
 ### Description of our APP
 
@@ -26,5 +26,5 @@ Using deep learning technique to build a model and the product of ANVIL to build
 
 * Domainselector.py: Add dense layers behind based model and the final layer of the model includes only one neuron for recognizing the  of the data. Train the model by all the data and
 
-* https://food-classification.anvil.app/
+
 
