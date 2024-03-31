@@ -36,5 +36,5 @@ Using deep learning technique to build a model and the product of ANVIL to build
 
 ### Discussion
 
-* Domain selection model is not a good idea for handling domain shift problem. (Cost too much on model storage.)
+* Domain selection model is not a good idea for handling domain shift problem. (The cost of model storage is too high.)
 * Accuracy on web scaping datset was too low.
