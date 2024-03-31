@@ -1,6 +1,6 @@
 # Taiwanese-Local Food-classification-APP
 
-Using deep learning technique to build a model and the product of ANVIL to build the interactive user interface. (https://food-classification.anvil.app/, Email me if you want to try our app: h1648886@gmail.com)
+Using deep learning technique to build a model and the product of ANVIL to build the interactive user interface. (https://food-classification.anvil.app/. Email me if you want to try our app: h1648886@gmail.com) [Demo video](https://youtu.be/DlKp4pPSPNw?t=458&si=whn8aNPYC_Nt0iaa)
 
 ### Description of our APP
 
