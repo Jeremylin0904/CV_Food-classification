@@ -28,5 +28,13 @@ Using deep learning technique to build a model and the product of ANVIL to build
 
 * Domainselector.py: Add dense layers behind based model and the final layer of the model includes only one neuron for recognizing the  of the data. Train the model by all the data and
 
+### Results
 
+* Top-5 testing accuracy on Kaggle dataset: 0.690
+* Top-5 testing accuracy on web scraping dataset: 0.496
+* Testing accuracy for domain selection model: 0.886
 
+### Discussion
+
+* Domain selection model is not a good idea for handling domain shift problem. (Cost too much on model storage.)
+* Accuracy on web scaping datset was too low.
