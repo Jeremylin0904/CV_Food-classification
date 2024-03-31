@@ -1,12 +1,13 @@
 # Taiwanese-Local Food-classification-APP
 
-Using deep learning technique to build a model and the product of ANVIL to build the interactive user interface. (https://food-classification.anvil.app/. Email me if you want to try our app: h1648886@gmail.com) [Demo video](https://youtu.be/DlKp4pPSPNw?t=458&si=whn8aNPYC_Nt0iaa)
+Using deep learning technique to build a model and the product of ANVIL to build the interactive user interface. (https://food-classification.anvil.app/. Email me if you want to try our app: h1648886@gmail.com)
 
 ### Description of our APP
 
 * Users can upload their own image then click the 'classify' buttom, we'll show the Top-5 score of the categories of the image.
 
 * If the result of our APP doesn't match the true category, we also provide a list of the categories that the users can just choose the correct category and then click 'tune' buttom to help us fine-tune our model.
+*  [Demo video](https://youtu.be/DlKp4pPSPNw?t=458&si=whn8aNPYC_Nt0iaa)
 
 ### Training data collection
 
