@@ -30,9 +30,9 @@ Using deep learning technique to build a model and the product of ANVIL to build
 
 ### Results
 
-* Top-5 testing accuracy on Kaggle dataset: 0.690
-* Top-5 testing accuracy on web scraping dataset: 0.496
-* Testing accuracy for domain selection model: 0.886
+* Top-5 testing accuracy on Kaggle dataset: 69%
+* Top-5 testing accuracy on web scraping dataset: 49.6%
+* Testing accuracy for domain selection model: 88.6%
 
 ### Discussion
 
