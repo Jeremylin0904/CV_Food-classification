@@ -12,13 +12,13 @@ Using deep learning technique to build a model and the product of ANVIL to build
 
 ### Training data collection
 
-* We collected training data from Kaggle and Google search engine. The categories of the food like bawan, tanhulu, beef noodles,... are all popular Taiwanese foods.
+* We collected training data from [Kaggle](https://www.kaggle.com/datasets/kuantinglai/taiwanese-food-101/data) and Google search engine. The categories of the food like bawan, tanhulu, beef noodles,... are all popular Taiwanese foods.
 
-* The data from Google search engine collected by Web-crawler.py.
+* The data from Google search engine collected by [Web-crawler.py](web-crawler.py).
 
 ### Model description
 
-* The models we constructed behind the APP based on the popular deep learning model- EfficientNetV2S.
+* The models we constructed behind the APP based on the popular deep learning model- [EfficientNetV2S](https://arxiv.org/abs/2104.00298).
 
 * Transfer learning technique: We firstly import a pre-trained EffcientNetV2S by imagenet from Tensorflow as based model then add dense layers behind EfficientNetV2S.
 
