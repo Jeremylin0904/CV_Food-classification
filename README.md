@@ -26,7 +26,7 @@ Using deep learning technique to build a model and the product of ANVIL to build
 
 * Model2.py: Same architecture as Model1.py and set the parameters the same as that of Model1.py then train the model by the web-crawler dataset.
 
-* Domainselector.py: Add dense layers behind based model and the final layer of the model includes only one neuron for recognizing the  of the data. Train the model by all the data and
+* Domainselector.py: Add dense layers behind the base model, and the final layer of the model includes only one neuron for recognizing the class of the data. Train the model using all the data and determine which dataset an input is more similar to.
 
 ### Results
 
