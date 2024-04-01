@@ -1,7 +1,5 @@
 !pip install anvil-uplink
 
-from google.colab import drive
-drive.mount('/content/drive')
 
 import anvil.server
 
