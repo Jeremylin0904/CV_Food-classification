@@ -5,7 +5,7 @@ drive.mount('/content/drive')
 
 import anvil.server
 
-anvil.server.connect("4ONVOWDNCSHQPJKHTSTTHYHE-HRLDISGIG23JX6DI")
+#anvil.server.connect("YOUR OWN KEY")
 
 import tensorflow as tf
 import numpy as np
